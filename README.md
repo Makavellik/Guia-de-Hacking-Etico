@@ -10,6 +10,102 @@
 
 > "No se trata de romper sistemas… se trata de entenderlos mejor que nadie."
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFC6&center=true&vCenter=true&width=720&lines=Construyendo+desde+la+curiosidad...;Pensando+en+sistemas%2C+no+en+respuestas...;Observando+patrones+en+el+caos...;ByMakaveli+Mode+Activated+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:020024,60:090979,100:00ffc6&height=240&section=header&text=ByMakaveli%20%7C%20Sentient%20System&fontSize=34&fontColor=39FF14&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00FF9C&center=true&vCenter=true&width=900&lines=Booting+Neural+Core...;Injecting+Consciousness...;Mapping+Networks...;Decoding+Reality...;Evolving...+Evolving...+Evolving..." />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 👁️‍🗨️⚡ AUTOR — BYMAKAVELI 
+
+```
+01001001 01101110 01101001 01100011 01101001 01100001 01101110 01100100
+01001101 01100101 01101110 01110100 01100101 00101110 00101110 00101110
+```
+
+> "No soy un usuario… soy un sistema en evolución." 🧠⚡
+
+---
+
+# 🧠✨ IDENTIDAD DIGITAL
+
+* 🧠 Pensamiento estructurado
+* 🔍 Observador de patrones
+* ⚡ Evolución constante
+* 🌐 Arquitecto de sistemas
+
+---
+
+# 🌌 FILOSOFÍA
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00F0FF&center=true&vCenter=true&width=700&lines=Todo+sistema+tiene+una+logica...;Todo+error+es+una+se%C3%B1al...;Todo+dato+cuenta+una+historia...;La+red+siempre+habla..." />
+</p>
+
+---
+
+# 💻⚡ EFECTO SISTEMA
+
+```
+> booting...
+> loading consciousness...
+> mapping network...
+> detecting anomalies...
+> learning...
+> adapting...
+> evolving...
+> status: ACTIVE ⚡
+```
+
+---
+
+# 🧪 MENTE ANALÍTICA
+
+```
+[ INPUT ] → [ PROCESO ] → [ ANÁLISIS ] → [ CONTROL ]
+```
+
+💡 Todo lo que entra… se transforma.
+
+---
+
+# 🌐 VISIÓN
+
+* 🔓 Entender lo invisible
+* 🧠 Pensar en capas
+* ⚡ Dominar sistemas
+
+---
+
+# 🔥⚡ FIRMA DIGITAL
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=No+mires+la+superficie...;Mira+el+flujo...;Mira+el+comportamiento...;Ah%C3%AD+est%C3%A1+la+verdad..." />
+</p>
+
+---
+
+# 🧠 FINAL
+
+> "Cuando entiendes el sistema… dejas de ser parte de él… y empiezas a controlarlo." ⚡
+
+---
+
+
+
 ---
 
 ## 🎯 Objetivo
@@ -886,4 +982,4 @@ Cuando domines esto podrás:
 
 > "Wireshark no muestra datos… muestra la realidad de la red." ⚡
 
----
+
